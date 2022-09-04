@@ -1,0 +1,16 @@
+#head{
+    letter-spacing: 5px;
+    background-color: red;
+    color: purple;
+    margin: 0;
+    width: 100%;
+    top: 0;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-size: cover;
+}
+
